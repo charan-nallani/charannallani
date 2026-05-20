@@ -5,7 +5,7 @@
 I build end-to-end machine learning systems—from research-aligned model development to production-grade inference pipelines. My work spans 3D spatial perception, vision-language retrieval, and industrial anomaly detection, with a focus on architectural efficiency and deployment under real-world constraints.
 
 📍 Open to research collaborations and senior ML engineering roles  
-🔗 [LinkedIn](#) · [Portfolio](#) · [Email](mailto:your@email.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/charan-nallani) · [Portfolio](https://charannallani.github.io) · [Email](nallanicharan64@email.com)
 
 ---
 
